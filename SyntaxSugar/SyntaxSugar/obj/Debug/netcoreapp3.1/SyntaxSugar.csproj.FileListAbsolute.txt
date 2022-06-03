@@ -1,0 +1,14 @@
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.exe
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.deps.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.dev.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfo.cs
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\SyntaxSugar\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.genruntimeconfig.cache
